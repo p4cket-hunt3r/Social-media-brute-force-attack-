@@ -57,7 +57,7 @@ pip install requirment.txt
 ```
 
 
-
+---
 
 ⚠️ Legal Disclaimer:
 
