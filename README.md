@@ -33,7 +33,12 @@ Social media attack tool kit for educational purposes
 
 termux:
 
+
+
 1.clone the repo
+
+
+
 2.install requirement (if neede)
 ```
 pip install requirment.txt
