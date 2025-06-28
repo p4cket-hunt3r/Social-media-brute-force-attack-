@@ -44,7 +44,10 @@ termux:
 pip install requirment.txt
 
 ```
-3.create world list of victim and add to word list folder (for brute force attack)
+3.create a directory named wordlist 
+
+
+4.create world list of victim and add to word list folder (for brute force attack)
 
 ---
 
